@@ -1,0 +1,24 @@
+/* body{
+  background-image: url(https://images.pexels.com/photos/314726/pexels-photo-314726.jpeg?w=940&h=650&dpr=2&auto=compress&cs=tinysrgb); */
+/*  } */
+
+
+/* .temperature{
+  border-style:solid;
+  margin-right:400px;
+  margin-left:400px;
+  margin-bottom:40px;
+} */
+
+.temperature{
+  font-size:100px;
+}
+
+h2{
+  font-size:60px;
+}
+
+.btn{
+  margin-top:30px;
+  margin-bottom:30px;
+}
